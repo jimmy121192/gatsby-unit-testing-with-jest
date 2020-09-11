@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://www.gatsbyjs.com">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
+  <a href="https://travis-ci.com/">
+    <img alt="Gatsby" src="https://travis-ci.org/images/logos/TravisCI-Mascot-1.png" width="100" />
   </a>
 </p>
 
@@ -42,6 +42,9 @@
     ```
 
     Connect your Github repository with your TravisCI account.
+
+## 🚀 E2E TESTING
+
 
 ## 🎯 References
 
