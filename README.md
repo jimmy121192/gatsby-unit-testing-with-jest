@@ -46,6 +46,7 @@
 ## 🚀 E2E TESTING
 
 
-## 🎯 References
 
- <img alt="Gatsby" src="http://alonedreamer.com/jimmymedia/images/travis.png" width="300"/>
+## 🎯 REFERENCES
+
+[![Build Status](https://travis-ci.com/jimmy121192/gatsby-unit-testing-with-jest.svg?branch=master)](https://travis-ci.com/jimmy121192/gatsby-unit-testing-with-jest)
